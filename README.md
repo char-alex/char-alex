@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **PHP**
 
-- 📫 How to reach me **alex@netspacenz.com**
+- 📫 How to reach me **alex@netspace.co.nz**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
